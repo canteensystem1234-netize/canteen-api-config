@@ -1,1 +1,1 @@
-https://canteensystem.infinityfreeapp.com
+https://canteen-api-proxy.canteensystem1234.workers.dev/
